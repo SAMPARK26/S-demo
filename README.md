@@ -1,4 +1,4 @@
 # S-demo
 this is my first git repository.
 <br>
-Author-SAmpark Verma
+Author-Sampark Verma
